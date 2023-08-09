@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Do you know that the Java supports multithreading, which enables concurrent execution of DSA algorithms, making it easier to implement parallel processing and optimize performance**
 
-<h3 align="left">Connect with me:<a>https://www.linkedin.com/in/roopak-kumar-allakula-7833a3202</a> </h3>
+<h3 align="left">Connect with me:<a href ="https://www.linkedin.com/in/roopak-kumar-allakula-7833a3202"></a> </h3>
 <p align="left">
 </p>
 
